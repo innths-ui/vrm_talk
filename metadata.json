@@ -1,0 +1,7 @@
+{
+  "name": "Realtime AI VRM Model",
+  "description": "An interactive web application featuring a VRM model on a green screen that engages in real-time conversation using the Gemini API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
